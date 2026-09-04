@@ -50,3 +50,8 @@ align-items: center;
   border-radius: 50px;
   color: #fff;
 }
+.nav__link--anchor-primary:hover {
+  background-color: #6030b1;
+  color: #fff;
+  transition: all 0.3s ease-in-out;
+}
