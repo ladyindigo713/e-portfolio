@@ -133,9 +133,10 @@ padding-top: 8px;
   margin-bottom: 28px;
 }
 
-.about-me__link{
+.about-me__links{
   font-size: 20px;
   color: #242424;
+  text-align: center;
   text-decoration: none;
   padding: 0 16px;
 }
