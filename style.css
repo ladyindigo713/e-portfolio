@@ -95,6 +95,10 @@ font-weight: bold;
   display: flex;
   flex-direction: column;
 }
+.about-me__info {
+display: flex;
+flex-direction: column;
+}
 .about-me__container{
   display: flex;
   flex-direction: column;
@@ -139,4 +143,16 @@ padding-top: 8px;
   text-align: center;
   text-decoration: none;
   padding: 0 16px;
+}
+
+.about-me__img--container{
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.about-me__img {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
 }
